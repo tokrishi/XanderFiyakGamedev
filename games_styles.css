@@ -1,0 +1,20 @@
+body {
+    background-color: black;
+}
+h1 {
+    text-align: center;
+    border: 2px solid maroon;
+    color: orange;
+}
+h2 {
+    text-align: center;
+    border: 2px solid maroon;
+    color: orange;
+}
+p {
+    color: darkorange;
+}
+img {
+    width: 50%;
+    height: auto;
+}
